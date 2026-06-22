@@ -106,7 +106,7 @@
     "taffydb": "2.7.3",
     "jsrsasign": "8.0.20",
     "jwt-decode": "2.2.0",
-    "json-bigint": "0.3.0",
+    "json-bigint": "1.0.0",
     "jpeg-js": "0.3.0",
     "mongo-sanitize": "1.0.0",
     "ldapjs": "1.0.2",
