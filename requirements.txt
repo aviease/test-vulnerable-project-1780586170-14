@@ -39,7 +39,7 @@ pytz==2018.9
 simplejson==3.16.0
 ujson==1.35
 msgpack==0.5.6
-protobuf==3.6.0
+protobuf==7.35.1
 grpcio==1.19.0
 pyjwt==1.7.0
 oauthlib==2.1.0
